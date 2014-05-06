@@ -5,4 +5,5 @@ package com.company;
  */
 public class A {
     // c2
+    // some other
 }
